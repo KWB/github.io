@@ -12,4 +12,6 @@ after a computer designed and built by that character.
 
 * One of the first hackers
 * Antagonist of Clifford Stoll
-* 23
+
+KK:
+> 23
