@@ -15,3 +15,6 @@ after a computer designed and built by that character.
 
 KK:
 > 23
+
+<img src="https://de.wikipedia.org/wiki/August_Diehl#/media/Datei:August_Diehl_Photo_Call_Der_junge_Karl_Marx_Berlinale_2017_02.jpg"/>
+
